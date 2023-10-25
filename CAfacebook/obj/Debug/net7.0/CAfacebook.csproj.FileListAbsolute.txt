@@ -1,0 +1,17 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\bin\Debug\net7.0\CAfacebook.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\bin\Debug\net7.0\CAfacebook.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\bin\Debug\net7.0\CAfacebook.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\bin\Debug\net7.0\CAfacebook.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\bin\Debug\net7.0\CAfacebook.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\obj\Debug\net7.0\CAfacebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\obj\Debug\net7.0\CAfacebook.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\obj\Debug\net7.0\CAfacebook.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\obj\Debug\net7.0\CAfacebook.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\obj\Debug\net7.0\CAfacebook.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\obj\Debug\net7.0\refint\CAfacebook.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\obj\Debug\net7.0\CAfacebook.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\obj\Debug\net7.0\CAfacebook.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\obj\Debug\net7.0\ref\CAfacebook.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\obj\Debug\net7.0\CAfacebook.csproj.AssemblyReference.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\NugetPackagesAndPackaging\CAfacebook\obj\Debug\net7.0\CAfacebook.csproj.CopyComplete
